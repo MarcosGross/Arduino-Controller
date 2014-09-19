@@ -1,0 +1,6 @@
+#files
+local.properties
+
+#folders
+.idea
+.gradle
