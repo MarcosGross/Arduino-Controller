@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ADNController="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ControlPanel" >
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/DeviceMenu"
+        style="@style/myTheme.ActionBar.Text"
+        android:icon="@drawable/connection_icon"
+        android:title="@string/BlueToothDevicesInfo"
+        android:visible="true"
+        android:titleCondensed="@string/BlueToothDevicesInfo"
+        android:showAsAction="ifRoom"
+        android:actionLayout="@layout/device_list"/>
+</menu>
