@@ -2,16 +2,16 @@
 <pre-dex-items>
 
     <item
-        dex="C:\Users\cffls_000\OneDrive\src\Android\ArduinoController\app\build\intermediates\pre-dexed\debug\classes-9727f30b740a3aec7dbdd6c8e33eab28f7bbec2e.jar"
-        jar="C:\Users\cffls_000\OneDrive\src\Android\ArduinoController\app\build\intermediates\exploded-aar\ArduinoController\openCVLibrary249\unspecified\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="e492deba776fff9b3393f9cbb52d3d833c224ae8"/>
-    <item
-        dex="C:\Users\cffls_000\OneDrive\src\Android\ArduinoController\app\build\intermediates\pre-dexed\debug\armeabi-v7a-4dec532eaae67d0e854fcfdc21eecef47e974c21.jar"
-        jar="C:\Users\cffls_000\OneDrive\src\Android\ArduinoController\app\libs\armeabi-v7a.jar"
+        dex="C:\Users\cffls_000\OneDrive\src\Android\ArduinoController\Arduino-Controller\app\build\intermediates\pre-dexed\debug\armeabi-v7a-93c8c8f3ae80799087527da0f77f0c6f62a23183.jar"
+        jar="C:\Users\cffls_000\OneDrive\src\Android\ArduinoController\Arduino-Controller\app\libs\armeabi-v7a.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="e4181755086c9028d9cd6856c630290535d34225"/>
+    <item
+        dex="C:\Users\cffls_000\OneDrive\src\Android\ArduinoController\Arduino-Controller\app\build\intermediates\pre-dexed\debug\classes-7db3b94a00f21ab4ae6cc9d934d3645e1df44776.jar"
+        jar="C:\Users\cffls_000\OneDrive\src\Android\ArduinoController\Arduino-Controller\app\build\intermediates\exploded-aar\Arduino-Controller\openCVLibrary249\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ae4663a672195680cd3685d2119d5c702c1afa14"/>
 
 </pre-dex-items>

@@ -6,13 +6,8 @@
         android:title="@string/action_settings"
         android:orderInCategory="100"
         android:showAsAction="never" />
-
-    <item android:id="@+id/DeviceMenu"
-        style="@style/myTheme.ActionBar.Text"
-        android:icon="@drawable/connection_icon"
-        android:title="@string/BlueToothDevicesInfo"
-        android:visible="true"
-        android:titleCondensed="@string/BlueToothDevicesInfo"
-        android:showAsAction="ifRoom"
-        android:actionLayout="@layout/device_list"/>
+    <item android:id="@+id/device_lookup"
+        android:title="@string/device_lookup"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
 </menu>

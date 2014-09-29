@@ -5,8 +5,4 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="myTheme.ActionBar.Text" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
-        <item name="android:textColor">#FFFFFF</item>
-    </style>
-
 </resources>
